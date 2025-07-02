@@ -1,6 +1,6 @@
 # Hazelcast-EX-02: Hazelcast ve Management Center Docker Kurulumu
 
-## � Proje Hakkında
+##  Proje Hakkında
 
 Bu proje kapsamında **Hazelcast** ve **Hazelcast Management Center**, Google Cloud üzerinde bir VM kullanılarak **Docker** yardımıyla çalıştırılmıştır. Amaç, Hazelcast'in temel çalışma prensiplerini anlamak ve yönetim paneli üzerinden cluster kontrolü yapmaktır.
 
